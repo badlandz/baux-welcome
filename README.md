@@ -11,11 +11,8 @@ This is a loaded gun on a USB stick.
 - Caps Lock is dead (Escape lives there now)  
 - Everything runs in RAM by default  
 - You are already in god mode
-  
-<img width="2075" height="1053" alt="2025-11-20_23-32" src="https://github.com/user-attachments/assets/93d37971-3714-4df9-964d-1d2a2886264d" />
 
-## Why the fuc
-k would anyone do this?
+## Why the fuck would anyone do this?
 
 Because I lost everything in 1997 running as root and I never want to spend another hour of my life setting up a user, fixing permissions, or typing `sudo` again.
 
@@ -37,4 +34,5 @@ Because backups exist. The real data is on the NAS, the git server, the offline 
 ## First boot screen tells you the truth
 
 You’ll see one ncurses dialog:
+<img width="2075" height="1053" alt="2025-11-20_23-32" src="https://github.com/user-attachments/assets/93d37971-3714-4df9-964d-1d2a2886264d" />
 
